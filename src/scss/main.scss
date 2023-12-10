@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.max-w-screen-2xl {
+    max-width: 75% !important;
+    height: 80% !important;
+    overflow: scroll;
+}
